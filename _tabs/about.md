@@ -8,15 +8,6 @@ Hello world! My name is William Yang and I'm currently a junior at MIT studying 
 
 Aside from academics, I dabble in writing, urban exploration, piano, and rock climbing. I've written a couple of short stories, memoirs, and other miscellaneous pieces that I've migrated over from my old medium blog to here. 
 
-### Top Level Info 
-**GitHub**: <https://github.com/wyang563>
-
-**Linkedin**: <https://www.linkedin.com/in/william-y-5aa6481a2/>
-
-**Personal Email**: willyanglex@gmail.com
-
-**Business Related Email**: will.yang.j563@gmail.com
-
 ### Interesting Concepts 
 A compilation of interesting reads I've found meaningful to save down organized in no particular order.
 
