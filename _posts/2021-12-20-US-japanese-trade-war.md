@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 7 — The US Japanese Trade War — and a case study of realism in international relations
+title: The US Japanese Trade War — and a case study of realism in international relations
 date: 2021-12-10 12:00:00 -0600
 categories: [Writing]
 ---

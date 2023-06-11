@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 12 — New Spring [Prelude]
+title: New Spring [Prelude]
 date: 2022-06-04 12:00:00 -0600
 categories: [Writing]
 ---

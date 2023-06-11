@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 13 — The Past in a Dark Alley Way
+title: The Past in a Dark Alley Way
 date: 2022-08-21 12:00:00 -0600
 categories: [Writing]
 ---

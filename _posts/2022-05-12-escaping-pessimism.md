@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 10 — Escaping Pessimism
+title: Escaping Pessimism
 date: 2022-05-12 12:00:00 -0600
 categories: [Writing]
 ---

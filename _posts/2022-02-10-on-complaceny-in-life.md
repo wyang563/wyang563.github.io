@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 6 — On Complacency in Life
+title: On Complacency in Life
 date: 2022-02-10 12:00:00 -0600
 categories: [Writing]
 ---

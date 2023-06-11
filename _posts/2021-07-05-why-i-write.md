@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: 1 — Why I Write
+title: Why I Write
 date: 2021-07-07 12:00:00 -0600
 categories: [Writing]
 ---
