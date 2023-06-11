@@ -45,7 +45,7 @@ social:
     - https://github.com/wyang563 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/william-y-5aa6481a2/
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: profile.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
