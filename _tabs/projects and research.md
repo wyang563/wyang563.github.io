@@ -7,6 +7,12 @@ order: 3
 
 I am currently working on improving the accuracy of a shadow based Neural Radiance Field model by using a GAN architecture to accurately map sunlight angles to image colors. I'm using Blender to generate synthetic satellite image data to supplement existing training data for satellite NeRF models. I implemeneted the GAN using a U-net generator to synthesize building outline maps of given satellite images to aid in the 3D modelling process. 
 
+## MIT PRIMEs Step 
+
+<https://pubs.lib.umn.edu/index.php/mjum/article/view/4235>
+
+I published a paper on fractional bases and their various applications in sequence generation in the U-Minnesota Undergraduate Journal. The final paper can be found at the link above. 
+
 ## C++ Poker-Bot
 
 <https://github.com/21chenb/pokerbot-2023>
