@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: New Spring [Prelude]
 date: 2022-06-04 12:00:00 -0600
-categories: [Writing]
+categories: [Memoir]
 ---
 
 5/17/22:

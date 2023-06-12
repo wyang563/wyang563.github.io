@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Escaping Pessimism
 date: 2022-05-12 12:00:00 -0600
-categories: [Writing]
+categories: [Memoir]
 ---
 
 12/29/21:

@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Why I Write
 date: 2021-07-07 12:00:00 -0600
-categories: [Writing]
+categories: [Memoir]
 ---
 
 7/5/21:
